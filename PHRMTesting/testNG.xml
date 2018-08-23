@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Suite name="IRCA Rate Testing">
+		
+	<test name= "Rate Testing POC">
+		<classes>
+			<class name = "TC1"/>
+		
+			
+			
+		</classes>
+	</test>
+</Suite>

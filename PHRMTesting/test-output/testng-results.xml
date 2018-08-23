@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24970" started-at="2018-08-18T14:26:03Z" finished-at="2018-08-18T14:26:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24970" started-at="2018-08-18T14:26:03Z" finished-at="2018-08-18T14:26:28Z">
+      <class name="Testng.TC1">
+        <test-method status="PASS" signature="initData()[pri:0, instance:Testng.TC1@2bbf4b8b]" name="initData" is-config="true" duration-ms="503" started-at="2018-08-18T14:26:03Z" finished-at="2018-08-18T14:26:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initData -->
+        <test-method status="PASS" signature="launchApplication()[pri:0, instance:Testng.TC1@2bbf4b8b]" name="launchApplication" is-config="true" duration-ms="10647" started-at="2018-08-18T14:26:03Z" finished-at="2018-08-18T14:26:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method status="PASS" signature="firstTC()[pri:0, instance:Testng.TC1@2bbf4b8b]" name="firstTC" duration-ms="13794" started-at="2018-08-18T14:26:14Z" finished-at="2018-08-18T14:26:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTC -->
+      </class> <!-- Testng.TC1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
